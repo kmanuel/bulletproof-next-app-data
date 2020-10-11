@@ -14,5 +14,13 @@
     "content": "Comment #2",
     "createdAt": 1602417129257,
     "id": "nHrQI2DH9bA_FEMHYOkOAU_NK2quxQ"
+  },
+  {
+    "userId": "user-id",
+    "name": "The User",
+    "avatar": "https://api.adorable.io/avatars/255/the-user@email.png",
+    "content": "FUN times",
+    "createdAt": 1602417137260,
+    "id": "a2-Wc3zPNqt7tp4-OfweRN__YYm5kY"
   }
 ]
